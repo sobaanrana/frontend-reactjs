@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan has more than 6,800 islands."
+  },
+  {
+    "id": 2,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38000000,
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 3,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 214000000,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest rainforest on Earth."
+  },
+  {
+    "id": 4,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83000000,
+    "interestingFact": "Germany is home to the world’s largest beer festival, Oktoberfest."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26000000,
+    "interestingFact": "Australia has more kangaroos than people."
+  },
+  {
+    "id": 6,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1400000000,
+    "interestingFact": "India is the birthplace of chess and yoga."
+  },
+  {
+    "id": 7,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67000000,
+    "interestingFact": "France is the most visited country in the world."
+  },
+  {
+    "id": 8,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 60000000,
+    "interestingFact": "South Africa has three capital cities."
+  },
+  {
+    "id": 9,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331000000,
+    "interestingFact": "The U.S. has the world's largest economy."
+  },
+  {
+    "id": 10,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 59000000,
+    "interestingFact": "Italy is home to the smallest country in the world, Vatican City."
+  }
+]
